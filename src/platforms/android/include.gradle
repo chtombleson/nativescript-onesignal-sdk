@@ -7,5 +7,5 @@ android {
 dependencies {
     // Describe plugin native Android dependencies like
 	// implementation "groupName:pluginName:ver" 
-    compile 'com.onesignal:OneSignal:3.11.2'
+    compile 'com.onesignal:OneSignal:3.12.3'
 }
